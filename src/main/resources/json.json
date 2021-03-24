@@ -1,0 +1,32 @@
+
+{"message":"accurate",
+  "cod":"200",
+  "count":1,
+  "list": [
+    {
+      "id":698740,
+      "name":"Odessa",
+      "coord": {"lat":46.4775,"lon":30.7326},
+      "main": {
+      "temp":4,
+      "feels_like":-1.52,
+      "temp_min":4,
+      "temp_max":4,
+      "pressure":1014,
+      "humidity":100},
+      "dt":1609844953,
+      "wind":{
+        "speed":6,
+        "deg":90
+      },
+      "sys":{"country":"UA"
+      },
+      "rain":null,
+      "snow":null,
+      "clouds":{"all":90},
+      "weather":[{
+        "id":500,
+        "main":"Rain",
+        "description":"light rain",
+        "icon":"10d"}]
+    }]}
